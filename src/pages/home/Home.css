@@ -1,0 +1,17 @@
+.h-home{
+    flex:4;
+}
+
+.homeHedding{
+    margin:5px 0px 0px 20px;
+    font-size: 30px;
+}
+
+.home{
+    margin-top: 30px;
+}
+
+.stats{
+    margin-top:20px;
+    display: flex;
+}

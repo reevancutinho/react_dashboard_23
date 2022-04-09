@@ -1,0 +1,18 @@
+.dchart{
+    margin:20px;
+    padding:20px;
+    width:100%;
+    -webkit-box-shadow: 0px 0px 12px -4px #000000; 
+    box-shadow: 0px 0px 12px -4px #000000;
+}
+
+.dchartTitle{
+    margin-bottom:20px;
+    color:blue;
+}
+
+.dchartbody{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
